@@ -1,0 +1,50 @@
+search py
+rename .moc
+open_with 
+open_with vim
+search smug
+search ice
+search 
+rename when_u.png
+search proj
+search red
+search mount
+rename .zshrc
+search lock
+search gaps
+find f
+open_with
+rename 1.mkv
+rename 2.mkv
+find ci
+rename screen.png
+open_with1
+search 9699
+rename wp.png
+shell convert wp.png -modulate 80 new.png
+rename 80.png
+shell convert wp.png -modulate 70 new.png
+rename 70.png
+shell convert wp.png -modulate 50 new.png
+rename 50.png
+shell convert wp.png -modulate 60 new.png
+rename 60.png
+open_with 1
+search trump
+shell convert par.png -modulate 10 par10.png
+shell convert par.png -modulate 20 par20.png
+shell convert para.png -modulate 60 new.png
+mkdir Tech
+search sam
+search hyde
+search trum
+find 
+rename thinkpad.png
+shell convert 
+shell convert pol_sticker.png -resize 400x400/> new.png
+shell convert pol_sticker.png -resize 400x400\> new.png
+search flat
+mkdir Ambience
+rename i3.mkv
+delete
+
